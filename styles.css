@@ -9,3 +9,6 @@ body {
     color: black;
     text-align: center;
   }
+  div id="navbar" {
+    text-align: center;
+  }
